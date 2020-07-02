@@ -1,0 +1,11 @@
+---
+layout: page
+title: Journal Update
+img: code.png # Add image post (optional)
+permalink: 06302020
+sidebar: false
+---
+
+---
+
+{% include_relative journal/06-30-2020.md %}
