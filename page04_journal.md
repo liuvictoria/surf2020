@@ -11,7 +11,7 @@ sidebar: true
 {% if site.data.entries %}
 ## Entries
 {% for journal in site.data.entries %}
-* [**{{journal.name}}**]({{site.url}}/{{site.baseurl}}/{{journal.location}})
+* [__{{journal.name}}__]({{site.url}}/{{site.baseurl}}/{{journal.location}})
   \| {{journal.desc}}
 {% endfor %}
 {% endif %}
