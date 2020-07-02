@@ -11,4 +11,4 @@ the include_relative function to today's journal entry.
 
 ## Update entries.yaml file under site.data using the indicated fields.
 
-# Now hope that nothing got f'ed!
+# Now hope that nothing got f'ed! :v:
