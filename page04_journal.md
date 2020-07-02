@@ -9,9 +9,9 @@ sidebar: true
 ---
 
 {% if site.data.entries %}
-## Entries (from latest to oldest)
+## Entries
 {% for journal in site.data.entries %}
-* [**{{journal.name}}**]({{site.url}}/{{site.baseurl}}/{{journal.location}})
+* **[{{journal.name}}]** ({{site.url}}/{{site.baseurl}}/{{journal.location}})
   \| {{journal.desc}}
 {% endfor %}
 {% endif %}
