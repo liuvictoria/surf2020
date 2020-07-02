@@ -12,7 +12,7 @@ sidebar: true
 
 
 # {{site.data.about.title}}
-{{site.data.about.authors}}
+:cherry_blossom:{{site.data.about.authors}}:cherry_blossom:
 
 {% for entry in site.data.about %}
 
