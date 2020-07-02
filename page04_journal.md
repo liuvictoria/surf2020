@@ -9,7 +9,7 @@ sidebar: true
 ---
 
 {% if site.data.entries %}
-## Code
+## Entries (from latest to oldest)
 {% for journal in site.data.entries %}
 * [**{{journal.name}}**]({{site.url}}/{{site.baseurl}}/{{journal.location}})
   \| {{journal.desc}}
