@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: :sparkles: About :sparkles:
 description: Information about the project, website, and links to the paper and SI
 img: booksellers.png # Add image post (optional)
 caption: "The Booksellers (2019)"
