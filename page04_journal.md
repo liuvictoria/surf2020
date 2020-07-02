@@ -11,7 +11,7 @@ sidebar: true
 {% if site.data.entries %}
 ## Entries
 {% for journal in site.data.entries %}
-* [:sparkles:{{journal.name}}:sparkles:]({{site.url}}/{{site.baseurl}}/{{journal.location}})
+* [:star2:{{journal.name}}:star2:]({{site.url}}/{{site.baseurl}}/{{journal.location}})
   \| {{journal.desc}}
 {% endfor %}
 {% endif %}
