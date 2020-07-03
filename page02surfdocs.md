@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Reports
-img: booksellers.png # Add image post (optional)
+img: reports.png # Add image post (optional)
+caption: "iStockPhoto"
 permalink: surfdocs
 sidebar: true
 ---
