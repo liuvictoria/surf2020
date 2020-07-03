@@ -1,8 +1,16 @@
 - journal:
   name: >
+      July 2, 2020
+  desc: >
+      Reading Swenson Chapter 2/3
+  location: >
+      j07022020
+
+- journal:
+  name: >
       July 1, 2020
   desc: >
-      Reading Swenson
+      Reading Swenson Intro & Chapter 1
   location: >
       j07012020
 
