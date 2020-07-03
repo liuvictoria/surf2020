@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Journal
-img: booksellers.png # Add image post (optional)
+img: journaling.png # Add image post (optional)
+caption: "Metro Parent"
 permalink: journal
 sidebar: true
 ---
