@@ -2,7 +2,7 @@
 layout: page
 title: Journal
 img: journaling.png # Add image post (optional)
-caption: "Metro Parent"
+caption: "Life Teen"
 permalink: journal
 sidebar: true
 ---
