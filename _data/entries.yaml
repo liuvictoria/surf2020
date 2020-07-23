@@ -1,5 +1,13 @@
 - journal:
   name: >
+      July 22, 2020
+  desc: >
+      Read Kennedy's article
+  location: >
+      j07222020
+
+- journal:
+  name: >
       July 21, 2020
   desc: >
       Finishing Holmes
