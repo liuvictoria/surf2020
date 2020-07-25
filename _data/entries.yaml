@@ -1,8 +1,16 @@
 - journal:
   name: >
+      July 24, 2020
+  desc: >
+      Reading Hard Times
+  location: >
+      j07242020
+
+- journal:
+  name: >
       July 23, 2020
   desc: >
-      Reading Hard Times again
+      Reading Hard Times
   location: >
       j07232020
 
